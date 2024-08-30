@@ -1,5 +1,3 @@
 # mlops
 
-
-
-sample 
+this is sammple
